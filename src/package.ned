@@ -1,0 +1,3 @@
+package smartgridbasednc;
+
+@license(LGPL);
